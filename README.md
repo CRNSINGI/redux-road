@@ -1,4 +1,1 @@
-State management
-Redux usage pattern
-Immutable state updates
-Defining and using actions
+State management, Redux usage pattern , Immutable state updates and Defining and using actions
